@@ -1,0 +1,17 @@
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\CF_Migrations_ExistRemoteDB.exe.config
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\CF_Migrations_ExistRemoteDB.exe
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\CF_Migrations_ExistRemoteDB.pdb
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\EntityFramework.dll
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\EntityFramework.xml
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\bin\Debug\fr\EntityFramework.resources.dll
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.csprojAssemblyReference.cache
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.csproj.CoreCompileInputs.cache
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.csproj.CopyComplete
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.exe
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.pdb
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.Migrations.Initial.resources
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.csproj.GenerateResource.cache
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.Migrations.AddPropertyAgeToPersonTable.resources
+D:\Tutoriels-IT\ENTITY FRAMEWORK\CF_Migrations_ExistRemoteDB\CF_Migrations_ExistRemoteDB\obj\Debug\CF_Migrations_ExistRemoteDB.Migrations.AddRating.resources
